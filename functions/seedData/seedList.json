@@ -1,0 +1,13 @@
+{
+  "label": "Seed",
+  "id": "seedList",
+  "options": [
+    { "label": "pioneer0", "price": 110 },
+    { "label": "pioneer1", "price": 134 },
+    { "label": "pioneer2", "price": 120 },
+    { "label": "pioneer3", "price": 208 },
+    { "label": "pioneer4", "price": 210 },
+    { "label": "pioneer5", "price": 184 }
+  ],
+  "units": ["Bag", "Lb"]
+}

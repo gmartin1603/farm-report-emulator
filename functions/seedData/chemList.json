@@ -1,0 +1,10 @@
+{
+  "label": "Chemical",
+  "id": "chemList",
+  "options": [
+    { "label": "Roundup", "price": 100 },
+    { "label": "2-4-D", "price": 50 },
+    { "label": "Atrazine", "price": 10 }
+  ],
+  "units": ["Lb", "Gal", "Acre"]
+}

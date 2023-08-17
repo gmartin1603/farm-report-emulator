@@ -1,0 +1,10 @@
+{
+  "label": "Miscellaneous",
+  "id": "misc",
+  "options": [
+    { "label": "Tile", "price": 100 },
+    { "label": "Waterway work", "price": 200 },
+    { "label": "Custom Tillage", "price": 300 }
+  ],
+  "units": ["Bag"]
+}

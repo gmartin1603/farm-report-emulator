@@ -1,0 +1,10 @@
+{
+  "label": "Fertilizer",
+  "id": "fertList",
+  "options": [
+    { "label": "NH3", "price": 100 },
+    { "label": "Manure", "price": 50 },
+    { "label": "50-20-50", "price": 10 }
+  ],
+  "units": ["LB", "Gal", "Ton"]
+}

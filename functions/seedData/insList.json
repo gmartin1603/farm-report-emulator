@@ -1,0 +1,9 @@
+{
+  "label": "Crop Insurance",
+  "id": "insList",
+  "options": [
+    { "label": "Corn", "price": 15 },
+    { "label": "Soy Beans", "price": 10 }
+  ],
+  "units": ["Acre"]
+}

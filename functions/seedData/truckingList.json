@@ -1,0 +1,11 @@
+{
+  "label": "Trucking",
+  "id": "truckingList",
+  "options": [
+    { "label": "Corn", "price": 0.55 },
+    { "label": "Beans", "price": 0.5 },
+    { "label": "Equipment", "price": 1.5 },
+    { "label": "Live Stock", "price": 2.2 }
+  ],
+  "units": ["Bu", "Mi", "Head"]
+}
