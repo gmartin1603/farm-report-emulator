@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "farm-report-86ac2"
+    "default": "farm-report-86ac2",
+    "staging": "farm-report-staging"
   }
 }
